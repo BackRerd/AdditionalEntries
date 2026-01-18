@@ -277,5 +277,5 @@ A: 各有优势：词条宝石可以精确控制词条内容（使用指令）�
 ---
 
 **开发者**: Backrer  
-**项目地址**: [填写你的项目地址]  
-**问题反馈**: [填写反馈地址]
+**项目地址**: [BackRerd/AdditionalEntries](https://github.com/BackRerd/AdditionalEntries)  
+**问题反馈**: QQ群：858109414
