@@ -279,3 +279,17 @@ A: 各有优势：词条宝石可以精确控制词条内容（使用指令）�
 **开发者**: Backrer  
 **项目地址**: [BackRerd/AdditionalEntries](https://github.com/BackRerd/AdditionalEntries)  
 **问题反馈**: QQ群：858109414
+
+---
+
+### 📢 转载与发布 / Redistribution
+
+如果你对这个模组感兴趣，可以将其发布到其他社区，**无需经过我的同意**。但请务必：
+1. **保留作者信息** (Backrer)
+2. **注明项目地址**
+3. **包含交流群信息** (QQ群: 858109414)
+
+If you are interested in this mod, you are free to redistribute it to other communities **without my prior consent**, provided that you:
+1. **Credit the author** (Backrer)
+2. **Provide the project link**
+3. **Include the community group info** (QQ Group: 858109414)
