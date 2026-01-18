@@ -1,0 +1,19 @@
+{
+    "item.additionalentries.entry_reforge": "Entry Reforge",
+    "item.additionalentries.quality_reforge": "Quality Reforge",
+    "item.additionalentries.weapon_affix_gem": "Weapon Affix Gem",
+    "item.additionalentries.armor_affix_gem": "Armor Affix Gem",
+    "item.additionalentries.auto_weapon_affix_gem": "Auto Weapon Affix Gem",
+    "item.additionalentries.auto_armor_affix_gem": "Auto Armor Affix Gem",
+    "creativetab.additional_entries_tab": "Additional Entries",
+    "tooltip.additionalentries.stored_affixes": "§6Stored Affixes:",
+    "tooltip.additionalentries.auto_generate": "§7Auto generate affixes",
+    "tooltip.additionalentries.right_click_generate": "§7Right-click to generate affixes",
+    "message.additionalentries.affixes_refreshed": "§aAffixes refreshed!",
+    "command.additionalentries.affix_added": "§aAdded affix %s %s",
+    "command.additionalentries.hold_gem": "§cYou must hold an Affix Gem!",
+    "command.additionalentries.affix_removed": "§aRemoved affix %s",
+    "command.additionalentries.affix_not_found": "§cAffix not found on gem!",
+    "command.additionalentries.affixes_cleared": "§aCleared all affixes",
+    "affix.additionalentries.weakness.applied": "§7Weakness applied!"
+}

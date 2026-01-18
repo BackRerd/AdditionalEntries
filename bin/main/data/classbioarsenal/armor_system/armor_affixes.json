@@ -1,0 +1,16 @@
+{
+    "affixes": [
+        {
+            "id": "WEAKNESS",
+            "display_name": "脱力",
+            "description": "使攻击者有概率获得虚弱效果",
+            "type": "PASSIVE_DEBUFF",
+            "min_value": 5.0,
+            "max_value": 30.0,
+            "max_level": 10,
+            "growth_per_level": 2.5,
+            "color": "§7",
+            "weight": 35
+        }
+    ]
+}

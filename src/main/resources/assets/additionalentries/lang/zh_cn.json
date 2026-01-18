@@ -1,0 +1,19 @@
+{
+    "item.additionalentries.entry_reforge": "词条重铸",
+    "item.additionalentries.quality_reforge": "品质重铸",
+    "item.additionalentries.weapon_affix_gem": "武器词条宝石(创造)",
+    "item.additionalentries.armor_affix_gem": "护甲词条宝石(创造)",
+    "item.additionalentries.auto_weapon_affix_gem": "武器词条宝石",
+    "item.additionalentries.auto_armor_affix_gem": "护甲词条宝石",
+    "creativetab.additional_entries_tab": "附加条目",
+    "tooltip.additionalentries.stored_affixes": "§6存储的词条:",
+    "tooltip.additionalentries.auto_generate": "§7自动生成词条",
+    "tooltip.additionalentries.right_click_generate": "§7右键生成词条",
+    "message.additionalentries.affixes_refreshed": "§a词条已刷新！",
+    "command.additionalentries.affix_added": "§a已添加词条 %s %s",
+    "command.additionalentries.hold_gem": "§c你必须手持词条宝石！",
+    "command.additionalentries.affix_removed": "§a已移除词条 %s",
+    "command.additionalentries.affix_not_found": "§c宝石上未找到该词条！",
+    "command.additionalentries.affixes_cleared": "§a已清除所有词条",
+    "affix.additionalentries.weakness.applied": "§7脱力效果已施加！"
+}
